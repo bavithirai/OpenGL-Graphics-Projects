@@ -1,11 +1,13 @@
-
-/*************************************************
- * Created on August 1, 2017, @author: Jim X. Chen
+/*
+ * OpenGL Window Setup
  *
- * JOGL initial set up: 
- * Open a frame with a background color: Cyan
+ * Original JOGL starter framework:
+ * Jim X. Chen
  *
+ * Adapted and implemented by:
+ * Bavithirai Vasugui Mathiazhagan
  *
+ * Fall 2026
  */
 
 //import java.awt.Frame;
